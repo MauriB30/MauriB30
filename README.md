@@ -2,5 +2,6 @@
 - Html
 - Css
 - JavaScript
+- Typescript
 - React
 - Tailwinds
