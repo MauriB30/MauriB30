@@ -4,4 +4,4 @@
 - JavaScript
 - Typescript
 - React
-- Tailwinds
+- Tailwind
