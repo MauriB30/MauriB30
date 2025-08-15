@@ -1,7 +1,9 @@
+# 👋 Hola, soy Mauricio Blanco
+
 💻 Desarrollador en formación. Actualmente aprendiendo / Aspiring developer. Currently learning:
-- Html
-- Css
-- JavaScript
-- Typescript
-- React
-- Tailwind
+- HTML & CSS  
+- JavaScript & TypeScript  
+- React.js  
+- Tailwind CSS
+- NodeJs (Conceptos, lo basico)
+- Git | GitHub | VSCode
