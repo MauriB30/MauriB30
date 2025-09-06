@@ -5,5 +5,5 @@
 - JavaScript & TypeScript  
 - React.js  
 - Tailwind CSS
-- NodeJs (Conceptos, lo basico)
+- NodeJs/Express
 - Git | GitHub | VSCode
